@@ -16,7 +16,7 @@ const Mywork = () => {
               <h1 className="text-custom-primary">My Work</h1>
             </section>
           </div>
-          <div className="row row-cols-2 row-cols-lg-4 g-4 g-lg-3 mt-3 justify-content-center">
+          <div className="row row-cols-1 row-cols-lg-4 g-4 g-lg-3 mt-3 justify-content-center">
             <div className="mh-100">
               <div className="card p-0 shadow-lg border-0 mx-2 h-100">
                 <img src={project1} className="card-img-top" alt="..." style={{ height: '40vh' }} />

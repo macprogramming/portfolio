@@ -10,7 +10,7 @@ const Service = () => {
               <h1 className="pb-3 text-custom-primary">My Service</h1>
             </div>
           </div>
-          <div className="row row-cols-3 row-cols-lg-3 g-2 g-lg-3" >
+          <div className="row row-cols-1 row-cols-sm-3 g-2 g-lg-3" >
             <div className="col mh-100">
               <div className="p-3 card rounded-0 shadow-lg border-0 h-100 service">
                 <div className="card-header border-0 bg-white">

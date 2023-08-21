@@ -21,7 +21,7 @@ const Contact = () => {
                   <p>Email : <a className="link" href="mailTo:makarandchikhale19@gmail.com">makarandchikhale19@gmail.com</a></p>
                   <div>
                     <p className="text-uppercase text-custom-primary fw-bold">Find with me</p>
-                    <div className="row row-cols-1 row-cols-lg-6 g-2 g-lg-3">
+                    <div className="row row-cols-6 row-cols-lg-6 g-2 g-lg-3">
                       <div className="col">
                         <div className="shadow-lg shadow-box rounded-1">
                           <a href="/"><AiOutlineLinkedin fontSize={'30px'} /></a>
